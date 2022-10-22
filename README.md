@@ -1,4 +1,5 @@
 # Practicas-LauchX
+Por José Arturo Chablé Pérez
 Listado de los ejercicios por carpetas:
 ## - [FrontEnd](./FrontEnd)
 1. [Intro a FrontEnd (Abogabot)](./FrontEnd/01%20-%20Intro)
